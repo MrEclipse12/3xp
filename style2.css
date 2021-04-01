@@ -42,3 +42,9 @@ main{
     width: 130px;
     height: 130px;
 }
+img{
+    -webkit-box-shadow: 4px 4px 13px 0px rgb(96, 38, 255);
+    -moz-box-shadow:    4px 4px 13px 0px rgb(96, 38, 255);
+    box-shadow:         4px 4px 13px 0px rgb(96, 38, 255);
+    border-radius: 900px;
+}
