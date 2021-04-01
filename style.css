@@ -54,3 +54,9 @@ strong{
 ul{
     color: black;
 }
+img{
+    -webkit-box-shadow: 4px 4px 13px 0px rgb(0, 0, 255);
+    -moz-box-shadow:    4px 4px 13px 0px rgb(0, 0, 255);
+    box-shadow:         4px 4px 13px 0px rgb(0, 0, 255);
+    border-radius: 900px;
+}
