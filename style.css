@@ -49,6 +49,11 @@ h2{
     text-align: center;
     font: italic 400 1.7em 'Josefin Sans', sans-serif;
   }
+h3{
+  font: italic 300 0.9em 'Poppins', arial, sans-serif;
+  text-align: center;
+  padding: 10p
+}
   #foto_perfil{
     margin: auto;
     width: 30%;
